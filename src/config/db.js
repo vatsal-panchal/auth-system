@@ -13,3 +13,5 @@ const connectDB = async () => {
 
 
 export default connectDB
+
+#its ok bachaa call kruuuuuuuuu
